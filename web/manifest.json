@@ -1,6 +1,6 @@
 {
-    "name": "myroshan_app_ui",
-    "short_name": "myroshan_app_ui",
+    "name": "my_roshan",
+    "short_name": "my_roshan",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

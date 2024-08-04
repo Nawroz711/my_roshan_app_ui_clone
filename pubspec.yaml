@@ -1,4 +1,4 @@
-name: myroshan_app_ui
+name: my_roshan
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -35,11 +35,11 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
-  get: ^4.6.6
-  iconsax: ^0.0.8
-  logger: ^2.4.0
   flutter_native_splash: ^2.4.1
+  get: ^4.6.6
   carousel_slider: ^4.2.1
+  logger: ^2.4.0
+  iconsax: ^0.0.8
 
 dev_dependencies:
   flutter_test:

@@ -1,4 +1,4 @@
-package com.example.myroshan_app_ui
+package com.example.my_roshan
 
 import io.flutter.embedding.android.FlutterActivity
 
